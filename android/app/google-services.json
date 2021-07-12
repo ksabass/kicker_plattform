@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "160596017242",
+    "project_id": "kicker-plattform",
+    "storage_bucket": "kicker-plattform.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160596017242:android:c26f40abc79d2257b65863",
+        "android_client_info": {
+          "package_name": "com.example.kicker_plattform"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160596017242-pi808ds0v23mork3fb5uusptomdj6ibu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZjFZMRtPBs15-YWuKdIBqDnADUmIt9mA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "160596017242-pi808ds0v23mork3fb5uusptomdj6ibu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
